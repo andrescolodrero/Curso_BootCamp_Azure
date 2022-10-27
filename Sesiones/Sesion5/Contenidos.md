@@ -12,6 +12,7 @@ Parte 2:
 - Crear Balance de carga y hacer balance
 
 Parte 3:
+- Bloqueos
 - VS COde
 - AZure Data Studio
 - NSG
