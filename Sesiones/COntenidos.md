@@ -1,8 +1,16 @@
-Importante:
+# Sesiones y días
 
-editar formacion
+14/11- 15:30 a 17:30
 
--> Anadir actuvida do recurso (subir archivos)
-- Subir un powerpoint, etc
-- recordar encuesta - recordar el test
+15/11 – 09:30 a 13:30
 
+16/11- 09:30 a 13:30
+
+• Introducción a gestión de código
+• CI – integración continua
+• CD – Despliegue continuo
+• Aplicación CI/CD “demo” en un proyecto real en Azure Devops
+
+Las alumnas han dado previamente:
+- Java
+- Python
