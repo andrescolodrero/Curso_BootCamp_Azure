@@ -1,14 +1,17 @@
 # Sesion 2 horas
-1. Introduccion a Cloud:( terminar documentos) 20-30
-2. Introducción a Azure
-2.1. Que es Azure
-2.2. Infrastructura física
-2.3. Gestión de Azure: https://learn.microsoft.com/en-us/training/modules/describe-core-architectural-components-of-azure/6-describe-azure-management-infrastructure
+1. Introduccion
 
-3. Azure Compute (2 hora
+2. Introduccion a AZure Devops
+2.1 Organizacion
+2.2 Projectos
+2.3 Equipos, Accesso y Agenes
 
-3. Redes: 2 horas
+3. Boards
 
-4. Almacenamiento: 2 horas
+4. Repositorios
 
-5. Base de Datos
+5. Pipelines
+
+6. Tests.
+
+7. Artefactos
