@@ -1,12 +1,14 @@
-# Sesion 2 horas
-1. Repasar Máquinas Virtruales
-2. Crear Grupo de Escalado ??
-3. Copiar la aplicacion a la maquina virtual.
+# Sesion 6 horas
+1. Practica Completa
+2. CLonar repositorio python-andres-demo
+3. Crear Scrum, workitems, etc
 
-ALMACENAMIENTO
-https://learn.microsoft.com/es-es/training/modules/create-azure-storage-account/
+# PIpelines
+1. Crear python Pipeline. fase 1
+2. Crear python pipeline fase2
+3. Ver codigo en rama: arreglar tests
+4. probar
+5. Merge
 
-VS CODE
 
-1. COnfigurar VS COde
-2. https://code.visualstudio.com/docs/azure/extensions
+
