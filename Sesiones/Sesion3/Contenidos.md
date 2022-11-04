@@ -3,6 +3,8 @@
 2. CLonar repositorio python-andres-demo
 3. Crear Scrum, workitems, etc
 
+https://learn.microsoft.com/es-es/azure/devops/pipelines/build/variables?view=azure-devops&tabs=yaml
+
 # PIpelines
 1. Crear python Pipeline. fase 1
 2. Crear python pipeline fase2
